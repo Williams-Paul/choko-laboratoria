@@ -1,10 +1,10 @@
 {
-	"title": "Laboratoria context",
-	"description": "Laboratoria context",
-	"conditions": {
-		"siteWide": true
-	},
-	"reactions": {
-		"theme": "laboratoria"
-	}
+  "title": "Laboratoria context",
+  "description": "Laboratoria context",
+  "conditions": {
+    "siteWide": true
+  },
+  "reactions": {
+    "theme": "laboratoria"
+  }
 }

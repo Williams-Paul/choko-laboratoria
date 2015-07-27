@@ -1,8 +1,8 @@
 {
-	"title": "Laboratoria theme",
-	"description": "Laboratoria theme base in Boobstrap",
-	"styles": [
-		"/lib/bootswatch/paper/bootstrap.css",
-		"/css/laboratoria.css"
-	]
+  "title": "Laboratoria theme",
+  "description": "Laboratoria theme base in Boobstrap",
+  "styles": [
+    "/lib/bootswatch/paper/bootstrap.css",
+    "/css/laboratoria.css"
+  ]
 }
