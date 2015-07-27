@@ -1,0 +1,11 @@
+{
+  "application": {
+    "name": "choko-laboratoria",
+    "email": "choko-laboratoria@gmail.com"
+  },
+  "database": "mongodb://localhost/choko-laboratoria",
+  "sessionSecret": "LIQfHiLp9I9ANe0Fumy3526bja6xEhcG41jB2Erls4Y=",
+	"extensions": {
+		"laboratoria": {}
+	}
+}

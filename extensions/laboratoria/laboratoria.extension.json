@@ -1,0 +1,5 @@
+{
+	"name": "laboratoria",
+	"description": "Laboratoria extension",
+	"dependencies": ["context"]
+}
